@@ -5,10 +5,10 @@ version: ${NFPM_VERSION}
 release: "1"
 section: net
 priority: optional
-maintainer: sky22333
+maintainer: s1545151561
 description: Docker and GitHub acceleration proxy server
-vendor: sky22333
-homepage: https://github.com/sky22333/hubproxy
+vendor: s1545151561
+homepage: https://github.com/s1545151561/hubproxy
 license: MIT
 depends:
   - logrotate
